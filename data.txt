@@ -1,6 +1,1 @@
-welcome
-money
-is
-the
-freedom
-now.welcome to Github
+now
